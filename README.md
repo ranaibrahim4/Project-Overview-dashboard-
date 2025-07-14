@@ -29,7 +29,8 @@ The dashboard uses the following CSV files as data sources:
 ## Screenshots
 Include screenshots of your dashboard here for reference.
 
-![Dashboard Screenshot](path/to/your/screenshot.png)
+![Dashboard](<img width="1081" height="687" alt="screenshot-1752525428143" src="https://github.com/user-attachments/assets/a4f63e11-27e5-4b3c-b46d-78e7f5a8f248" />
+)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
