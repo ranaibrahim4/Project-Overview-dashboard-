@@ -26,8 +26,9 @@ The dashboard uses the following CSV files as data sources:
 3. Load the provided CSV files as data sources in Power BI.
 4. Open or import the Power BI dashboard file (if provided) or recreate the dashboard using the included data and visuals as shown in the screenshots below.
 
-## Screenshots
-Include screenshots of your dashboard here for reference.
+## Dashboard
+![Dashboard](https://github.com/ranaibrahim4/Project-Overview-dashboard-/blob/main/Project%20Overview%20dashboard.png)
+
 
 ![Dashboard](<img width="1081" height="687" alt="screenshot-1752525428143" src="https://github.com/user-attachments/assets/a4f63e11-27e5-4b3c-b46d-78e7f5a8f248" />
 )
